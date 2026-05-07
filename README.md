@@ -1,4 +1,4 @@
-# Ecommerce-Sales-BI-Dashboard
+# 🛒 Ecommerce-Sales-BI-Dashboard
 
 An interactive Business Intelligence solution designed to track seasonal trends, regional performance, and product profitability to guide strategic inventory and pricing decisions.  
 ## 🖼️ Visual Preview:
